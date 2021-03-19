@@ -1,21 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
   <title>Harsh Jha-Portfolio</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
-
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -43,7 +38,7 @@
     <div class="d-flex flex-column">
       <div class="profile">
         <img src="assets\img\portfolio\profilepic.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Harsh Jha</a></h1>
+        <h1 class="text-light"><a href="index.php">Harsh Jha</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://www.twitter.com/nationalist9839" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.fb.com/harshjhasd" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
@@ -176,7 +171,6 @@
     <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
       <div class="container">
-
         <div class="section-title">
           <h2>Skills</h2>
           <p>I believe in learning and implementing, over the past 4 years I have gained enough skills and have built a team to deliver you what exactly you need.
@@ -446,7 +440,7 @@
               <img src="assets\img\portfolio\OnlineNotes.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/online notes app.PNG" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -456,7 +450,7 @@
               <img src="assets\img\portfolio\StaminaGym.JPG" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="staminagym.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="staminagym.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -466,7 +460,7 @@
               <img src="assets\img\portfolio\bmwportfolio.JPG" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="bmw.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="bmw.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -476,7 +470,7 @@
               <img src="assets\img\portfolio\tindog.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="tindog.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="tindog.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -486,7 +480,7 @@
               <img src="assets\img\portfolio\GALLERY.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="gallery.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="gallery.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -496,7 +490,7 @@
               <img src="assets\img\portfolio\ecommerce.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="#" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -506,7 +500,7 @@
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -516,7 +510,7 @@
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -526,7 +520,7 @@
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>

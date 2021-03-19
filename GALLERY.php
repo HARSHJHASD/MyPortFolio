@@ -40,7 +40,7 @@
 
       <div class="profile">
         <img src="assets\img\portfolio\profilepic.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Harsh Jha</a></h1>
+        <h1 class="text-light"><a href="index.php">Harsh Jha</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://www.twitter.com/nationalist9839" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.fb.com/harshjhasd" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
@@ -52,7 +52,7 @@
 
       <nav class="nav-menu">
         <ul>
-          <li><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="index.php"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li class="active"><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
@@ -75,7 +75,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Portfoio Details</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Portfoio Details</li>
           </ol>
         </div>
@@ -90,7 +90,7 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets\img\portfolio\tindog.jpg" class="img-fluid" alt="">
+            <img src="assets\img\portfolio\Gallery.jpg" class="img-fluid" alt="">
             <img src="#" class="img-fluid" alt="">
             <img src="#" class="img-fluid" alt="">
           </div>
@@ -99,16 +99,16 @@
             <h3>Project information</h3>
             <ul>
               <li><strong>Category</strong>: Web design</li>
-              <li><strong>Client</strong>: Tindog</li>
+              <li><strong>Client</strong>:Flexbox Gallery</li>
               <li><strong>Project date</strong>: 20 September, 2020</li>
-              <li><strong>Project URL</strong>: <a href="https://harshjhasd.github.io/TinDog-Startup-Landing-Page/" target="_blank">www.tindog.com</a></li>
+              <li><strong>Project URL</strong>: <a href="https://harshjhasd.github.io/Gallery-FlexBox/" target="_blank">www.Gallery.com</a></li>
             </ul>
           </div>
 
         </div>
 
         <div class="portfolio-description">
-          <h2>Tindog</h2>
+          <h2>Gallery</h2>
 
         </div>
 

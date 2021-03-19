@@ -40,7 +40,7 @@
 
       <div class="profile">
         <img src="assets\img\portfolio\profilepic.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Harsh Jha</a></h1>
+        <h1 class="text-light"><a href="index.php">Harsh Jha</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://www.twitter.com/nationalist9839" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.fb.com/harshjhasd" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
@@ -52,7 +52,7 @@
 
       <nav class="nav-menu">
         <ul>
-          <li><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="index.php"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li class="active"><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
@@ -75,7 +75,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Portfoio Details</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Portfoio Details</li>
           </ol>
         </div>
@@ -90,8 +90,8 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets\img\portfolio\bmwportfolio.jpg" class="img-fluid" alt="">
-            <img src="" class="img-fluid" alt="">
+            <img src="assets\img\portfolio\StaminaGymSample.JPG" class="img-fluid" alt="">
+            <img src="assets\img\portfolio\gymtimetable.JPG" class="img-fluid" alt="">
             <img src="assets\img\gymwebsiteporto.jpg" class="img-fluid" alt="">
           </div>
 
@@ -99,16 +99,16 @@
             <h3>Project information</h3>
             <ul>
               <li><strong>Category</strong>: Web design</li>
-              <li><strong>Client</strong>: BMW SHOWROOM</li>
-              <li><strong>Project date</strong>: 20 January, 2021</li>
-              <li><strong>Project URL</strong>: <a href="https://harshjhasd.github.io/BMW-page/" target="_blank">www.BMW.com</a></li>
+              <li><strong>Client</strong>: Stamina Gym</li>
+              <li><strong>Project date</strong>: 01 October, 2020</li>
+              <li><strong>Project URL</strong>: <a href="https://harshjhasd.github.io/stamina-chatbot-localhost-map/index.php">www.stamina.com</a></li>
             </ul>
           </div>
 
         </div>
 
         <div class="portfolio-description">
-          <h2>BMW - The International Showroom</h2>
+          <h2>Stamina - A Gym Website</h2>
 
         </div>
 
